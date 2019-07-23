@@ -1,12 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Language from './components/Language';
+import LanguageContainer from './components/LanguageContainer';
 
 function App() {
   return (
     <div>
-      <Language />
+      <LanguageContainer />
     </div>
   );
 }
